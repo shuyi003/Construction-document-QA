@@ -1,0 +1,1655 @@
+[
+  {
+    "context": "Upon completion of the Contractor's operation, the quarry or pit shall be cleared of all rubbish, temporary structures, and equipment, and shall be left in a neat and presentable condition. The pit or quarry shall be reclaimed in accordance with the approved site reclamation plan specified in Section 3-03.",
+    "questions": [
+      {
+        "question": "Who is responsible for clearing the quarry or pit of rubbish and temporary structures?",
+        "answer": {
+          "text": "Contractor",
+          "answer_start": 23,
+          "answer_end": 33
+        }
+      },
+      {
+        "question": "What should be done to the quarry or pit after the Contractor's operation?",
+        "answer": {
+          "text": "cleared of all rubbish, temporary structures, and equipment, and shall be left in a neat and presentable condition",
+          "answer_start": 74,
+          "answer_end": 188
+        }
+      },
+      {
+        "question": "What is requirement for reclaiming the pit or quarry?",
+        "answer": {
+          "text": "in accordance with the approved site reclamation plan",
+          "answer_start": 227,
+          "answer_end": 280
+        }
+      },
+      {
+        "question": "Which reference specifies the site reclamation plan for the quarry or pit?",
+        "answer": {
+          "text": "Section 3-03",
+          "answer_start": 294,
+          "answer_end": 306
+        }
+      }
+    ]
+  },
+  {
+    "context": "Payment for rejected material will be based on the results of the one sample, which was taken and tested. If the rejected material fails either test, no payment will be made for the rejected material; in addition, the cost of sampling and testing, at the rate of $250.00 per sample, shall be borne by the Contractor. If the rejected material passes both tests, the mix will be compensated for at actual invoice cost, and the cost of the sampling and testing will be borne by the Contracting Agency.",
+    "questions": [
+      {
+        "question": "Who is responsible for paying the cost of sampling and testing if the rejected material fails either test?",
+        "answer": {
+          "text": "the Contractor",
+          "answer_start": 301,
+          "answer_end": 315
+        }
+      },
+      {
+        "question": "What will happen if the rejected material passes both tests?",
+        "answer": {
+          "text": "the mix will be compensated for at actual invoice cost, and the cost of the sampling and testing will be borne by the Contracting Agency",
+          "answer_start": 361,
+          "answer_end": 497
+        }
+      },
+      {
+        "question": "How much does the sampling and testing cost per sample?",
+        "answer": {
+          "text": "$250.00 per sample",
+          "answer_start": 263,
+          "answer_end": 281
+        }
+      },
+      {
+        "question": "Which factor determines the payment for rejected material?",
+        "answer": {
+          "text": "the results of the one sample, which was taken and tested",
+          "answer_start": 47,
+          "answer_end": 104
+        }
+      }
+    ]
+  },
+  {
+    "context": "The prefabricated drains shall be installed vertically from the working surface to the required elevations and in a sequence that will not require equipment to travel over previously installed drains. The Contractor shall provide the Engineer with a suitable means of verifying the plumbness of the equipment and determining the depth of the drain at any time. The equipment shall not deviate more than 0.25 inches per foot from vertical.",
+    "questions": [
+      {
+        "question": "What is the maximum allowable deviation for the equipment from vertical?",
+        "answer": {
+          "text": "0.25 inches per foot",
+          "answer_start": 403,
+          "answer_end": 423
+        }
+      },
+      {
+        "question": "What strategies should be implemented to install the prefabricated drains?",
+        "answer": {
+          "text": "vertically from the working surface to the required elevations and in a sequence that will not require equipment to travel over previously installed drains",
+          "answer_start": 44,
+          "answer_end": 199
+        }
+      },
+      {
+        "question": "What requirements should be followed to install the prefabricated drains?",
+        "answer": {
+          "text": "in a sequence that will not require equipment to travel over previously installed drains",
+          "answer_start": 111,
+          "answer_end": 199
+        }
+      },
+      {
+        "question": "What should the Contractor offer which can serve as the assistance for the Engineer?",
+        "answer": {
+          "text": "a suitable means of verifying the plumbness of the equipment and determining the depth of the drain at any time",
+          "answer_start": 248,
+          "answer_end": 359
+        }
+      }
+    ]
+  },
+  {
+    "context": "In addition to the preceding random acceptance sampling and testing, the Engineer may also isolate from a normal sublot any material that is suspected of being defective. Such isolated material will not include an original sample location. A minimum of three random samples of the suspect material will be obtained and tested. The material will then be evaluated as an independent lot in accordance with Section 1-06.2(2).",
+    "questions": [
+      {
+        "question": "Who is responsible for isolating material suspected of being defective?",
+        "answer": {
+          "text": "the Engineer",
+          "answer_start": 69,
+          "answer_end": 81
+        }
+      },
+      {
+        "question": "What is the number of random samples to be obtained from suspect material?",
+        "answer": {
+          "text": "A minimum of three random samples",
+          "answer_start": 240,
+          "answer_end": 273
+        }
+      },
+      {
+        "question": "What is evaluation method for the isolated material?",
+        "answer": {
+          "text": "evaluated as an independent lot",
+          "answer_start": 353,
+          "answer_end": 384
+        }
+      },
+      {
+        "question": "Which section is referenced for evaluating the isolated material?",
+        "answer": {
+          "text": "Section 1-06.2(2)",
+          "answer_start": 404,
+          "answer_end": 421
+        }
+      }
+    ]
+  },
+  {
+    "context": "The Contractor shall notify the State Departments of Ecology, Fish and Wildlife, and Natural Resources, in writing, of the intent to furnish the source, and shall, at no expense to the Contracting Agency, make all necessary arrangements with these agencies for the determinations of regulations which might be imposed upon the Contractor during removal of materials from the source.",
+    "questions": [
+      {
+        "question": "Which party must the Contractor notify regarding the intent to furnish the source?",
+        "answer": {
+          "text": "the State Departments of Ecology, Fish and Wildlife, and Natural Resources",
+          "answer_start": 28,
+          "answer_end": 102
+        }
+      },
+      {
+        "question": "Which aspects should the Contractor notify relevant departments?",
+        "answer": {
+          "text": "notify the State Departments of Ecology, Fish and Wildlife, and Natural Resources, in writing, of the intent to furnish the source",
+          "answer_start": 21,
+          "answer_end": 151
+        }
+      },
+      {
+        "question": "In which way should the Contractor communicate their intent to furnish the source?",
+        "answer": {
+          "text": "in writing",
+          "answer_start": 104,
+          "answer_end": 114
+        }
+      },
+      {
+        "question": "What aspect must the Contractor cooperate with the Contracting Agency?",
+        "answer": {
+          "text": "make all necessary arrangements with these agencies for the determinations of regulations",
+          "answer_start": 205,
+          "answer_end": 294
+        }
+      }
+    ]
+  },
+  {
+    "context": "When extra excavation is used in lieu of constructing the shoring, cofferdam, or caisson, the lump sum Contract price shall be full pay for all excavation, backfill, compaction, and other Work required. If select backfill material is required for backfilling within the limits of Structure excavation, it shall also be required as backfill material for the extra excavation at the Contractor's expense.",
+    "questions": [
+      {
+        "question": "What factor determines whether it is suitable to provide select backfill material for extra excavation?",
+        "answer": {
+          "text": "Contractor's expense",
+          "answer_start": 381,
+          "answer_end": 401
+        }
+      },
+      {
+        "question": "What aspects are covered in the lump sum Contract price when extra excavation is used?",
+        "answer": {
+          "text": "all excavation, backfill, compaction, and other Work required",
+          "answer_start": 140,
+          "answer_end": 201
+        }
+      },
+      {
+        "question": "In what situations should the extra excavation be utilized?",
+        "answer": {
+          "text": "extra excavation is used in lieu of constructing the shoring, cofferdam, or caisson",
+          "answer_start": 5,
+          "answer_end": 88
+        }
+      },
+      {
+        "question": "What material is required for backfilling within the limits of Structure excavation?",
+        "answer": {
+          "text": "select backfill material",
+          "answer_start": 206,
+          "answer_end": 230
+        }
+      }
+    ]
+  },
+  {
+    "context": "The Contractor shall clear, grub, and clean up those areas staked or described in the Special Provisions. This Work includes protecting from harm all trees, bushes, shrubs, or other objects selected to remain.\n\n\"Clearing\" means removing and disposing of all unwanted material from the surface, such as trees, brush, down timber, or other natural material.\n\n\"Grubbing\" means removing and disposing of all unwanted vegetative matter from underground, such as sod, stumps, roots, buried logs, or other debris.\n\n\"Roadside cleanup,\" whether inside or outside the staked area, means Work done to give the roadside an attractive, finished appearance.\n\n\"Debris\" means all unusable natural material produced by clearing, grubbing, or roadside cleanup.",
+    "questions": [
+      {
+        "question": "Who is responsible for clearing, grubbing, and cleaning up the designated areas?",
+        "answer": {
+          "text": "The Contractor",
+          "answer_start": 0,
+          "answer_end": 14
+        }
+      },
+      {
+        "question": "What does 'clearing' involve in the construction specifications?",
+        "answer": {
+          "text": "removing and disposing of all unwanted material from the surface, such as trees, brush, down timber, or other natural material",
+          "answer_start": 228,
+          "answer_end": 354
+        }
+      },
+      {
+        "question": "How should 'grubbing' be carried out according to the context?",
+        "answer": {
+          "text": "removing and disposing of all unwanted vegetative matter from underground, such as sod, stumps, roots, buried logs, or other debris",
+          "answer_start": 374,
+          "answer_end": 505
+        }
+      },
+      {
+        "question": "What is meant by 'roadside cleanup' in the construction tasks?",
+        "answer": {
+          "text": "Work done to give the roadside an attractive, finished appearance",
+          "answer_start": 577,
+          "answer_end": 642
+        }
+      },
+      {
+        "question": "Which items are to be protected during the clearing, grubbing, and cleanup processes?",
+        "answer": {
+          "text": "trees, bushes, shrubs, or other objects selected to remain",
+          "answer_start": 150,
+          "answer_end": 208
+        }
+      }
+    ]
+  },
+  {
+    "context": "The Engineer may stop the excavation to make bearing tests at any time. The Contractor shall assist with these tests in any way the Engineer requires. During any test period, the Contractor shall, at no expense to the Contracting Agency, maintain ordinary working conditions at the bottom of the hole. The Contracting Agency will pay force account for all labor and materials the Contractor supplies for such tests. A single test shall not exceed 72 hours.",
+    "questions": [
+      {
+        "question": "Who should take the responsibility to make bearing tests of excavation?",
+        "answer": {
+          "text": "The Engineer",
+          "answer_start": 0,
+          "answer_end": 12
+        }
+      },
+      {
+        "question": "How can Contractor coordinate during the bearing test period?",
+        "answer": {
+          "text": "The Contractor shall, at no expense to the Contracting Agency, maintain ordinary working conditions at the bottom of the hole.",
+          "answer_start": 106,
+          "answer_end": 199
+        }
+      },
+      {
+        "question": "What help can be obtained from the Contractor during the bearing tests?",
+        "answer": {
+          "text": "assist with these tests in any way the Engineer requires.",
+          "answer_start": 93,
+          "answer_end": 150
+        }
+      },
+      {
+        "question": "Who will pay for the labor and materials supplied by the Contractor for the tests?",
+        "answer": {
+          "text": "The Contracting Agency",
+          "answer_start": 302,
+          "answer_end": 324
+        }
+      },
+      {
+        "question": "What is the maximum time limit allowed for a single bearing test?",
+        "answer": {
+          "text": "A single test shall not exceed 72 hours.",
+          "answer_start": 416,
+          "answer_end": 456
+        }
+      }
+    ]
+  },
+  {
+    "context": "Installation of the drains should consider and be coordinated with the geotechnical instrumentation shown in the Plans. Special care shall be taken when installing drains near instrumentation already in place. Replacement of instrumentation damaged by the Contractor will be the responsibility of the Contractor. The Contractor shall demonstrate that the equipment, method, and materials produce a satisfactory installation in accordance with these Specifications. For this purpose, the Contractor shall be required to install trial drains at different locations within the Work area.",
+    "questions": [
+      {
+        "question": "If the owner want to replace damaged instrumentation, who should he turn to?",
+        "answer": {
+          "text": "the Contractor",
+          "answer_start": 252,
+          "answer_end": 266
+        }
+      },
+      {
+        "question": "What types of standards should the installation of drains be coordinated?",
+        "answer": {
+          "text": "the geotechnical instrumentation shown in the Plans",
+          "answer_start": 67,
+          "answer_end": 118
+        }
+      },
+      {
+        "question": "What should contractors implement in advance before proceeding with the full installation?",
+        "answer": {
+          "text": "install trial drains at different locations within the Work area",
+          "answer_start": 519,
+          "answer_end": 583
+        }
+      }
+    ]
+  },
+  {
+    "context": "Channel Excavation includes open excavations 8 feet wide or more at the bottom, but excludes channels that are part of the Roadway. Ditch Excavation includes open excavations less than 8 feet wide at the bottom, but excludes ditches that are part of the Roadway. Before excavating channels or ditches, the Contractor shall clear and grub the area in accordance with Section 2-01.",
+    "questions": [
+      {
+        "question": "What is the minimum width for an excavation to be classified as Channel Excavation?",
+        "answer": {
+          "text": "8 feet",
+          "answer_start": 45,
+          "answer_end": 51
+        }
+      },
+      {
+        "question": "What preparation work should be done before channel or ditch excavation?",
+        "answer": {
+          "text": "clear and grub the area in accordance with Section 2-01",
+          "answer_start": 323,
+          "answer_end": 378
+        }
+      },
+      {
+        "question": "What is standard for an excavation to be classified as Ditch Excavation?",
+        "answer": {
+          "text": "less than 8 feet wide",
+          "answer_start": 175,
+          "answer_end": 196
+        }
+      }
+    ]
+  },
+  {
+    "context": "Clearing and grubbing of quarries and pit sites will be measured in accordance with Section 2-01 when the Proposal includes such Bid items and such Work is required on a source provided by the Contracting Agency, except as modified in Section 3-01.3(5). Stripping of quarries and pit sites will be measured in cubic yards in its original position by cross-sectioning when the Proposal includes such Bid item and such stripping is required on a source provided by the Contracting Agency, except as modified in Section 3-01.3(5). Measurement of the particular materials or aggregates to be produced will be as specified in the appropriate section of these Specifications.",
+    "questions": [
+      {
+        "question": "Who provides the source for clearing and grubbing of quarries and pit sites?",
+        "answer": {
+          "text": "the Contracting Agency",
+          "answer_start": 189,
+          "answer_end": 211
+        }
+      },
+      {
+        "question": "How to measure stripping of quarries and pit sites?",
+        "answer": {
+          "text": "measured in cubic yards in its original position by cross-sectioning",
+          "answer_start": 298,
+          "answer_end": 366
+        }
+      },
+      {
+        "question": "Which section should be referred to for measuring clearing and grubbing?",
+        "answer": {
+          "text": "Section 2-01",
+          "answer_start": 84,
+          "answer_end": 96
+        }
+      },
+      {
+        "question": "Which reference modifies the measurement of work on quarries and pit sites?",
+        "answer": {
+          "text": "except as modified in Section 3-01.3(5)",
+          "answer_start": 213,
+          "answer_end": 252
+        }
+      }
+    ]
+  },
+  {
+    "context": "All costs involved in preparing stockpile sites shall be included in the unit Contract prices for the various Bid items being stockpiled, except that clearing and grubbing will be paid in accordance with Section 2-01 when the Proposal includes such Bid items and such Work is required on a stockpile site provided by the Contracting Agency.",
+    "questions": [
+      {
+        "question": "Who is responsible for providing the stockpile site?",
+        "answer": {
+          "text": "Contracting Agency",
+          "answer_start": 321,
+          "answer_end": 339
+        }
+      },
+      {
+        "question": "In what condition will clearing and grubbing be paid separately?",
+        "answer": {
+          "text": "when the Proposal includes such Bid items and such Work is required on a stockpile site provided by the Contracting Agency",
+          "answer_start": 217,
+          "answer_end": 339
+        }
+      },
+      {
+        "question": "How to pay clearing and grubbing if required?",
+        "answer": {
+          "text": "in accordance with Section 2-01",
+          "answer_start": 185,
+          "answer_end": 216
+        }
+      },
+      {
+        "question": "Which section introduces the payment for clearing and grubbing?",
+        "answer": {
+          "text": "Section 2-01",
+          "answer_start": 204,
+          "answer_end": 216
+        }
+      }
+    ]
+  },
+  {
+    "context": "If the Contract requires it, the Contractor shall displace or remove any overburden of peat, muck, or other unstable material to permit placing the embankment on underlying firm ground. The Engineer will determine the elevation at which the ground is firm enough to support the embankment. To displace such material, the Contractor shall use explosives or any other method the Engineer requires. If this Work upheaves overburden material outside the slopes of the new fill, the Contractor shall level the material to make it presentable. The Contracting Agency will pay for the Work described in this section by force account. Any other costs related to the Work shall be incidental to building the embankment and shall be included in the unit Contract prices for the Work items that apply.",
+    "questions": [
+      {
+        "question": "How can the overburden material be displaced?",
+        "answer": {
+          "text": "explosives or any other method the Engineer requires",
+          "answer_start": 342,
+          "answer_end": 394
+        }
+      },
+      {
+        "question": "Who can determine the elevation where the ground is firm enough?",
+        "answer": {
+          "text": "The Engineer",
+          "answer_start": 186,
+          "answer_end": 198
+        }
+      },
+      {
+        "question": "What factor does the Contracting Agency depend on to pay for the work described?",
+        "answer": {
+          "text": "by force account",
+          "answer_start": 609,
+          "answer_end": 625
+        }
+      },
+      {
+        "question": "What elements are included in the unit Contract prices?",
+        "answer": {
+          "text": "Any other costs related to the Work",
+          "answer_start": 627,
+          "answer_end": 662
+        }
+      }
+    ]
+  },
+  {
+    "context": "When the Contractor is proposing to use admixtures from different admixture manufacturers, they shall provide evidence to the Engineer that the admixtures will be compatible and not adversely affect the air void system of the hardened concrete. Test results complying with ASTM C457 shall be provided as evidence to satisfy this requirement. Admixture combinations that have been previously tested and are in compliance with ASTM C457 shall be listed in the Qualified Products List (QPL). Proposed combinations not found in the QPL shall meet this requirement.",
+    "questions": [
+      {
+        "question": "Who must provide evidence that admixtures from different manufacturers are compatible?",
+        "answer": {
+          "text": "the Contractor",
+          "answer_start": 5,
+          "answer_end": 19
+        }
+      },
+      {
+        "question": "What will happen if the Engineer utilize admixtures from different manufacturers?",
+        "answer": {
+          "text": "the admixtures will be compatible and not adversely affect the air void system of the hardened concrete",
+          "answer_start": 140,
+          "answer_end": 243
+        }
+      },
+      {
+        "question": "Which standard must the test results comply with to satisfy the admixture requirement?",
+        "answer": {
+          "text": "ASTM C457",
+          "answer_start": 273,
+          "answer_end": 282
+        }
+      },
+      {
+        "question": "How should the Contractor do to prove that the admixture combinations are acceptable?",
+        "answer": {
+          "text": "provide evidence to the Engineer that the admixtures will be compatible and not adversely affect the air void system of the hardened concrete",
+          "answer_start": 102,
+          "answer_end": 243
+        }
+      },
+      {
+        "question": "Which list includes admixture combinations that have been previously tested and comply with the standard?",
+        "answer": {
+          "text": "Qualified Products List (QPL)",
+          "answer_start": 458,
+          "answer_end": 487
+        }
+      }
+    ]
+  },
+  {
+    "context": "In the top 2 feet, horizontal layers shall not exceed 4 inches in depth before compaction. No layer below the top 2 feet shall exceed 8 inches in depth before compaction. The Contractor shall use compacting equipment approved by the Engineer. Under Methods B or C, the Engineer may permit the Contractor to increase layer thickness up to 18 inches before compaction, provided: 1. The layer is more than 2 feet below the top of the embankment, 2. An approved vibratory roller is used, and 3. The required density is obtained throughout the full depth and width of each layer.",
+    "questions": [
+      {
+        "question": "What is the maximum allowed layer depth in the top 2 feet before compaction?",
+        "answer": {
+          "text": "4 inches",
+          "answer_start": 54,
+          "answer_end": 62
+        }
+      },
+      {
+        "question": "What is the maximum layer thickness below the top 2 feet before compaction?",
+        "answer": {
+          "text": "8 inches",
+          "answer_start": 134,
+          "answer_end": 142
+        }
+      },
+      {
+        "question": "How can the Contractor increase the layer thickness to 18 inches before compaction?",
+        "answer": {
+          "text": "Under Methods B or C, the Engineer may permit the Contractor to increase layer thickness up to 18 inches before compaction",
+          "answer_start": 243,
+          "answer_end": 365
+        }
+      }
+    ]
+  },
+  {
+    "context": "Vertical drains shall be installed with equipment that will cause a minimum of subsoil disturbance. A mandrel or sleeve shall be advanced through the subsoil using vibratory, constant load, or constant rate of advance methods. The mandrel shall have a maximum cross-sectional area of 14 square inches, shall protect the prefabricated drain material from tears, cuts, and abrasions during installation, and shall be provided with an 'anchor' plate or rod. The 'anchor' plate or rod shall provide sufficient strength to prevent the soil from entering the bottom during installation and shall anchor the bottom of the drain at the required depth when the mandrel is removed. Use of falling weight impact hammers or jetting will not be allowed within the compressible subsoil to be drained.",
+    "questions": [
+      {
+        "question": "What is requirement for installing vertical drains?",
+        "answer": {
+          "text": "Vertical drains shall be installed with equipment that will cause a minimum of subsoil disturbance.",
+          "answer_start": 0,
+          "answer_end": 99
+        }
+      },
+      {
+        "question": "If there is a requirement to advance a mandrel through the subsoil, what strategies can be employed?",
+        "answer": {
+          "text": "vibratory, constant load, or constant rate of advance methods",
+          "answer_start": 164,
+          "answer_end": 225
+        }
+      },
+      {
+        "question": "What functions should the mandrel equipped with to prevent damage during installation?",
+        "answer": {
+          "text": "shall protect the prefabricated drain material from tears, cuts, and abrasions during installation",
+          "answer_start": 302,
+          "answer_end": 400
+        }
+      },
+      {
+        "question": "What is the maximum cross-sectional area allowed for the mandrel?",
+        "answer": {
+          "text": "14 square inches",
+          "answer_start": 284,
+          "answer_end": 300
+        }
+      },
+      {
+        "question": "If contracts want to advance through the compressible subsoil, what matters should not do?",
+        "answer": {
+          "text": "falling weight impact hammers or jetting",
+          "answer_start": 679,
+          "answer_end": 719
+        }
+      },
+      {
+        "question": "What component can be utilized to prevent soil from entering during installation?",
+        "answer": {
+          "text": "'anchor' plate or rod",
+          "answer_start": 432,
+          "answer_end": 453
+        }
+      },
+      {
+        "question": "In what condition should the bottom of the drain be anchored at the required depth?",
+        "answer": {
+          "text": "when the mandrel is removed",
+          "answer_start": 643,
+          "answer_end": 670
+        }
+      }
+    ]
+  },
+  {
+    "context": "Concrete admixtures shall be added to the concrete mix at the time of batching the concrete or in accordance with the manufacturer's written procedure and as accepted by the Engineer. A copy of the manufacturer's written procedure shall be furnished to the Engineer prior to use of any admixture. Any deviations from the manufacturer's written procedures shall be submitted as a Type 2 Working Drawing. Admixtures shall not be added to the concrete with the modified procedures until the Engineer has concurred in writing.",
+    "questions": [
+      {
+        "question": "Who must accept the manufacturer's written procedure for adding admixtures to the concrete?",
+        "answer": {
+          "text": "accepted by the Engineer",
+          "answer_start": 158,
+          "answer_end": 182
+        }
+      },
+      {
+        "question": "What document should be provided to the Engineer before using any concrete admixture?",
+        "answer": {
+          "text": "A copy of the manufacturer's written procedure",
+          "answer_start": 184,
+          "answer_end": 230
+        }
+      },
+      {
+        "question": "When can admixtures be added to the concrete with modified procedures?",
+        "answer": {
+          "text": "until the Engineer has concurred in writing",
+          "answer_start": 478,
+          "answer_end": 521
+        }
+      },
+      {
+        "question": "How to submit the manufacturer's written procedures?",
+        "answer": {
+          "text": "submitted as a Type 2 Working Drawing",
+          "answer_start": 364,
+          "answer_end": 401
+        }
+      },
+      {
+        "question": "Which documentation must be submitted if there are differences from the manufacturer's original suggestions?",
+        "answer": {
+          "text": "Type 2 Working Drawing",
+          "answer_start": 379,
+          "answer_end": 401
+        }
+      }
+    ]
+  },
+  {
+    "context": "Aggregates shall be removed from stockpiles in a manner that avoids separation of sizes or contamination with dirt or foreign material. The method and equipment used for loading will be approved by the Engineer. Only pneumatic-tired equipment shall be used on stockpiles of processed or manufactured aggregates when removing materials from the stockpiles. When removing materials from the face of the stockpile, the equipment shall be operated to load from the bottom to the top of the stockpile face, ensuring maximum uniformity of the material.",
+    "questions": [
+      {
+        "question": "Which party should approve the method and equipment used for loading aggregates?",
+        "answer": {
+          "text": "approved by the Engineer",
+          "answer_start": 186,
+          "answer_end": 210
+        }
+      },
+      {
+        "question": "What type of tools must be utilized on stockpiles of processed aggregates?",
+        "answer": {
+          "text": "Only pneumatic-tired equipment",
+          "answer_start": 212,
+          "answer_end": 242
+        }
+      },
+      {
+        "question": "How should the equipment be employed when removing materials from the face of the stockpile?",
+        "answer": {
+          "text": "operated to load from the bottom to the top of the stockpile face, ensuring maximum uniformity of the material",
+          "answer_start": 435,
+          "answer_end": 545
+        }
+      },
+      {
+        "question": "What is the requirement for removing aggregates from stockpiles to prevent contamination?",
+        "answer": {
+          "text": "in a manner that avoids separation of sizes or contamination with dirt or foreign material",
+          "answer_start": 44,
+          "answer_end": 134
+        }
+      }
+    ]
+  },
+  {
+    "context": "The Engineer may direct the Contractor to dispose of excavated material in embankments, backfills, or remove it from the site. All costs for disposing of excavated material within the project limits shall be included in the unit Contract price for Structure excavation, Class A or B. If, however, the Contractor must load and haul the material to a disposal site, the Contracting Agency will pay as provided in Section 1-04.4 for loading and hauling. The Contracting Agency will not pay for handling at the disposal site. Any such disposal shall meet the requirements of Section 2-03.3(7)C. If the Contract includes Structure excavation, Class A or B, including haul, the unit Contract price shall include all costs for loading and hauling the material the full required distance.",
+    "questions": [
+      {
+        "question": "Who is in charge of the Contractor to dispose excavated material?",
+        "answer": {
+          "text": "The Engineer",
+          "answer_start": 0,
+          "answer_end": 12
+        }
+      },
+      {
+        "question": "What are strategies for disposing of excavated material as directed by the Engineer?",
+        "answer": {
+          "text": "dispose of excavated material in embankments, backfills, or remove it from the site",
+          "answer_start": 42,
+          "answer_end": 125
+        }
+      },
+      {
+        "question": "In what condition will the Contracting Agency pay for loading and hauling of excavated material?",
+        "answer": {
+          "text": "If, however, the Contractor must load and haul the material to a disposal site, the Contracting Agency will pay as provided in Section 1-04.4 for loading and hauling",
+          "answer_start": 284,
+          "answer_end": 449
+        }
+      },
+      {
+        "question": "Which reference introduces the requirements for disposing excavated material?",
+        "answer": {
+          "text": "Section 2-03.3(7)C",
+          "answer_start": 571,
+          "answer_end": 589
+        }
+      }
+    ]
+  },
+  {
+    "context": "If the grading or quality of raw material in sources used for the manufacture of products covered by this section is such that the fracture, grading, or quality of the product specified cannot be obtained by utilizing the natural material, fine portions of the raw material shall be rejected to the extent necessary to produce products meeting all requirements of these Specifications. Failure of the Contracting Agency to include a scalping requirement in the Special Provisions shall not relieve the Contractor of the responsibility for rejecting fine portions of the material if such becomes necessary to produce products meeting all requirements of these Specifications. Scalping shall be performed after the pit-run or quarry-run material has passed through the primary crusher.",
+    "questions": [
+      {
+        "question": "Who is responsible for rejecting fine portions of the raw material if necessary?",
+        "answer": {
+          "text": "the Contractor",
+          "answer_start": 498,
+          "answer_end": 512
+        }
+      },
+      {
+        "question": "What action should be implemented after the material has passed through the primary crusher?",
+        "answer": {
+          "text": "Scalping shall be performed",
+          "answer_start": 675,
+          "answer_end": 702
+        }
+      },
+      {
+        "question": "When should scalping be performed in the production process?",
+        "answer": {
+          "text": "after the pit-run or quarry-run material has passed through the primary crusher",
+          "answer_start": 703,
+          "answer_end": 782
+        }
+      },
+      {
+        "question": "What happens if the grading or quality of the manufacture of products can not reach comparable performance of that obtained from natural material?",
+        "answer": {
+          "text": "fine portions of the raw material shall be rejected to the extent necessary to produce products meeting all requirements of these Specifications",
+          "answer_start": 240,
+          "answer_end": 384
+        }
+      },
+      {
+        "question": "Which action by the Contracting Agency does not relieve the Contractor of their responsibility?",
+        "answer": {
+          "text": "Failure of the Contracting Agency to include a scalping requirement in the Special Provisions",
+          "answer_start": 386,
+          "answer_end": 479
+        }
+      }
+    ]
+  },
+  {
+    "context": "Drainpipes under the stockpile shall be provided at the Contractor's expense when, in the opinion of the Engineer, such drains are necessary to properly drain the aggregates. The roads and ground adjacent to the stockpile shall be kept free of dust. Washed aggregate that has become coated with foreign material prior to use shall be washed until free of all foreign material or it may be rejected. Washed aggregate shall drain in hauling conveyances or stockpiles at least 12 hours before being weighed or measured for batching and for a longer time if so directed by the Engineer.",
+    "questions": [
+      {
+        "question": "What must be kept free of dust according to the specification?",
+        "answer": {
+          "text": "The roads and ground adjacent to the stockpile",
+          "answer_start": 175,
+          "answer_end": 221
+        }
+      },
+      {
+        "question": "When should washed aggregate drain before being weighed or measured for batching?",
+        "answer": {
+          "text": "at least 12 hours",
+          "answer_start": 465,
+          "answer_end": 482
+        }
+      },
+      {
+        "question": "Which strategy should be treated for washed aggregate that has become coated with foreign material?",
+        "answer": {
+          "text": "shall be washed until free of all foreign material",
+          "answer_start": 325,
+          "answer_end": 375
+        }
+      },
+      {
+        "question": "In whose opinion are drainpipes necessary to drain the aggregates?",
+        "answer": {
+          "text": "in the opinion of the Engineer",
+          "answer_start": 83,
+          "answer_end": 113
+        }
+      }
+    ]
+  },
+  {
+    "context": "The surfacing material and water shall be mixed in an approved mixing plant as described in Section 4-04.3(1). The completed mixture shall be a thoroughly mixed combination of proportioned materials and water, uniform in distribution of particle sizes and moisture content. A mixture containing water in excess of the proportion established by the Engineer will not be accepted.",
+    "questions": [
+      {
+        "question": "Who is responsible for establishing the water proportion in the mixture?",
+        "answer": {
+          "text": "the Engineer",
+          "answer_start": 344,
+          "answer_end": 356
+        }
+      },
+      {
+        "question": "What is the characteristics of the completed mixture?",
+        "answer": {
+          "text": "a thoroughly mixed combination of proportioned materials and water, uniform in distribution of particle sizes and moisture content.",
+          "answer_start": 142,
+          "answer_end": 273
+        }
+      },
+      {
+        "question": "In what condition will a mixture be rejected?",
+        "answer": {
+          "text": "A mixture containing water in excess of the proportion established by the Engineer will not be accepted.",
+          "answer_start": 274,
+          "answer_end": 378
+        }
+      },
+      {
+        "question": "What is the strategy to mix the surfacing material and water?",
+        "answer": {
+          "text": "in an approved mixing plant as described in Section 4-04.3(1).",
+          "answer_start": 48,
+          "answer_end": 110
+        }
+      },
+      {
+        "question": "Which section of the guidelines describes the mixing plant requirements?",
+        "answer": {
+          "text": "Section 4-04.3(1)",
+          "answer_start": 92,
+          "answer_end": 109
+        }
+      }
+    ]
+  },
+  {
+    "context": "When more than one quarry or pit site is provided in the Special Provisions, the Contractor may obtain material from any of the sources. The Contracting Agency will specify the quantity of raw material available, as determined by tests, in each quarry or pit site. If the Contractor sets up in a site, and it is found that the quantity of raw material from that site, when the site is exhausted, is less than that specified by the Contracting Agency, then the provisions of Section 3-01.3(5) will apply.",
+    "questions": [
+      {
+        "question": "Who should determine the quantity of raw material available in pit site?",
+        "answer": {
+          "text": "The Contracting Agency",
+          "answer_start": 137,
+          "answer_end": 159
+        }
+      },
+      {
+        "question": "What action should the Contractor take if more than one quarry or pit site is available?",
+        "answer": {
+          "text": "the Contractor may obtain material from any of the sources",
+          "answer_start": 77,
+          "answer_end": 135
+        }
+      },
+      {
+        "question": "Which reference should the Contractor follow if a site's raw material is less than specified?",
+        "answer": {
+          "text": "Section 3-01.3(5)",
+          "answer_start": 474,
+          "answer_end": 491
+        }
+      },
+      {
+        "question": "What is the strategy to determine the quantity of raw material in each site determined?",
+        "answer": {
+          "text": "as determined by tests",
+          "answer_start": 213,
+          "answer_end": 235
+        }
+      }
+    ]
+  },
+  {
+    "context": "Admixtures used in CDF shall meet the requirements of Section 9-23.6, Admixtures for Concrete, and foaming agents, if used, shall meet the requirements of ASTM C869. Admixtures shall be used in accordance with the manufacturer's recommendations, and non-chloride accelerating admixtures may be used to accelerate the hardening of CDF. CDF shall meet the requirement of Section 6-02.3(5)C and shall be accepted based on a Certificate of Compliance. The producer shall provide a Certificate of Compliance for each truckload of CDF in accordance with Section 6-02.3(5)B.",
+    "questions": [
+      {
+        "question": "Which party should prpvide a Certificate of Compliance for each truckload of CDF?",
+        "answer": {
+          "text": "The producer",
+          "answer_start": 448,
+          "answer_end": 460
+        }
+      },
+      {
+        "question": "What requirements must admixtures that are used in CDF meet satisfy?",
+        "answer": {
+          "text": "the requirements of Section 9-23.6, Admixtures for Concrete",
+          "answer_start": 34,
+          "answer_end": 93
+        }
+      },
+      {
+        "question": "In what condition can admixtures be used for CDF?",
+        "answer": {
+          "text": "in accordance with the manufacturer's recommendations",
+          "answer_start": 191,
+          "answer_end": 244
+        }
+      },
+      {
+        "question": "Which standard must foaming agents comply with if they are used?",
+        "answer": {
+          "text": "ASTM C869",
+          "answer_start": 155,
+          "answer_end": 164
+        }
+      },
+      {
+        "question": "Which reference introduces the requirements that CDF must meet?",
+        "answer": {
+          "text": "Section 6-02.3(5)C",
+          "answer_start": 369,
+          "answer_end": 387
+        }
+      }
+    ]
+  },
+  {
+    "context": "Grading of slopes after placement of the riprap or other cover material will not be allowed if grading results in stone movement directly on the geotextile. Under no circumstances shall stones with a weight of more than 100 pounds be allowed to roll down slope. Stones shall not be dropped from a height greater than 3 feet above the geotextile surface if an aggregate cushion is present, or 1 foot if a cushion is not present. Lower drop heights may be required if geotextile damage from the stones is evident, as determined by the Engineer. If the geotextile is placed on slopes steeper than 2:1, the stones shall be placed on the slope without free-fall for moderate survivability, high survivability, and ditch lining geotextiles.",
+    "questions": [
+      {
+        "question": "What is the maximum weight of stones allowed to roll down the slope?",
+        "answer": {
+          "text": "100 pounds",
+          "answer_start": 220,
+          "answer_end": 230
+        }
+      },
+      {
+        "question": "In what condition the Contractor do not need to drop stones from a height greater than 3 feet?",
+        "answer": {
+          "text": "if an aggregate cushion is present",
+          "answer_start": 353,
+          "answer_end": 387
+        }
+      },
+      {
+        "question": "In what state should stones be placed on slopes steeper than 2:1?",
+        "answer": {
+          "text": "without free-fall",
+          "answer_start": 639,
+          "answer_end": 656
+        }
+      },
+      {
+        "question": "In which condition should the Contractor prohibit the grading of slopes after riprap placement?",
+        "answer": {
+          "text": "if grading results in stone movement directly on the geotextile",
+          "answer_start": 92,
+          "answer_end": 155
+        }
+      }
+    ]
+  },
+  {
+    "context": "When the material at the bottom of an excavation is not stable enough to support the Structure, the Contractor shall excavate below grade and replace the unstable material with gravel backfill. Gravel backfill shall meet the requirements of Section 9-03.12. It shall be placed in layers not more than 6 inches thick with each layer compacted to 95 percent of the maximum density determined by the Compaction Control Test, Section 2-03.3(14)D.",
+    "questions": [
+      {
+        "question": "What types of material can be utilized to replace unstable material at the bottom of an excavation?",
+        "answer": {
+          "text": "gravel backfill",
+          "answer_start": 177,
+          "answer_end": 192
+        }
+      },
+      {
+        "question": "In what condition should the contractor replace the material at the bottom of an excavation?",
+        "answer": {
+          "text": "When the material at the bottom of an excavation is not stable enough to support the Structure",
+          "answer_start": 0,
+          "answer_end": 94
+        }
+      },
+      {
+        "question": "Where should gravel backfill be placed during implementation?",
+        "answer": {
+          "text": "placed in layers not more than 6 inches thick with each layer compacted to 95 percent of the maximum density",
+          "answer_start": 270,
+          "answer_end": 378
+        }
+      },
+      {
+        "question": "If the Contractor want to know the requirements for gravel backfill, which reference should they turn to?",
+        "answer": {
+          "text": "Section 9-03.12",
+          "answer_start": 241,
+          "answer_end": 256
+        }
+      },
+      {
+        "question": "Which reference introduces the important compaction control test for gravel backfill?",
+        "answer": {
+          "text": "Section 2-03.3(14)D",
+          "answer_start": 422,
+          "answer_end": 441
+        }
+      }
+    ]
+  },
+  {
+    "context": "Batch Plant Prequalification requires certification by the National Ready Mixed Concrete Association (NRMCA). Information concerning NRMCA certification may be obtained from the NRMCA at 900 Spring Street, Silver Spring, MD 20910, or online at www.nrmca.org. The NRMCA certification shall be valid for a 2-year period from the date of the certificate. The following documentation shall be submitted to the Engineer: a copy of the current NRMCA Certificate of Conformance, the concrete mix design(s) (WSDOT Form 350-040), along with copies of the truck list, batch plant scale certification, admixture dispensing certification, and volumetric water batching devices (including water meters) verification.",
+    "questions": [
+      {
+        "question": "Who is responsible for certifying the batch plant?",
+        "answer": {
+          "text": "National Ready Mixed Concrete Association (NRMCA)",
+          "answer_start": 59,
+          "answer_end": 108
+        }
+      },
+      {
+        "question": "What is required for batch plant prequalification?",
+        "answer": {
+          "text": "certification by the National Ready Mixed Concrete Association (NRMCA)",
+          "answer_start": 38,
+          "answer_end": 108
+        }
+      },
+      {
+        "question": "How to obtain information about NRMCA certification?",
+        "answer": {
+          "text": "Information concerning NRMCA certification may be obtained from the NRMCA at 900 Spring Street, Silver Spring, MD 20910, or online at www.nrmca.org.",
+          "answer_start": 110,
+          "answer_end": 258
+        }
+      },
+      {
+        "question": "What is the validation period of the NRMCA certification?",
+        "answer": {
+          "text": "for a 2-year period from the date of the certificate",
+          "answer_start": 298,
+          "answer_end": 350
+        }
+      },
+      {
+        "question": "Which reference form is needed for concrete mix design documentation?",
+        "answer": {
+          "text": "WSDOT Form 350-040",
+          "answer_start": 500,
+          "answer_end": 518
+        }
+      },
+      {
+        "question": "What type of document should be submitted to the Engineer?",
+        "answer": {
+          "text": "a copy of the current NRMCA Certificate of Conformance, the concrete mix design(s) (WSDOT Form 350-040), along with copies of the truck list, batch plant scale certification, admixture dispensing certification, and volumetric water batching devices (including water meters) verification.",
+          "answer_start": 416,
+          "answer_end": 703
+        }
+      }
+    ]
+  },
+  {
+    "context": "Removal of the existing pavement shall not damage any pavement to be left in place. Any existing pavement that is to remain and has been damaged shall be repaired at the Contractor's expense. If jackhammers are used for removing pavement, they shall not weigh more than 30 pounds, and chipping hammers shall not weigh more than 15 pounds. All power-driven hand tools used for the removal of pavement shall be operated at angles less than 45 degrees as measured from the surface of the pavement to the tool. The patch limits shall extend beyond the spalled area a minimum of 3 inches. Repair areas shall be kept square or rectangular. Repair areas that are within 12 inches of another repair area shall be combined.",
+    "questions": [
+      {
+        "question": "What is the maximum weight allowed for jackhammers used in pavement removal?",
+        "answer": {
+          "text": "30 pounds",
+          "answer_start": 270,
+          "answer_end": 279
+        }
+      },
+      {
+        "question": "How to operate power-driven hand tools when removing pavement?",
+        "answer": {
+          "text": "at angles less than 45 degrees as measured from the surface of the pavement to the tool",
+          "answer_start": 418,
+          "answer_end": 505
+        }
+      },
+      {
+        "question": "What is the minimum extension required for patch limits beyond the spalled area?",
+        "answer": {
+          "text": "a minimum of 3 inches",
+          "answer_start": 561,
+          "answer_end": 582
+        }
+      },
+      {
+        "question": "What are shapes of repair areas?",
+        "answer": {
+          "text": "kept square or rectangular",
+          "answer_start": 606,
+          "answer_end": 632
+        }
+      },
+      {
+        "question": "What is the length limit for combining repair areas?",
+        "answer": {
+          "text": "within 12 inches of another repair area",
+          "answer_start": 656,
+          "answer_end": 695
+        }
+      }
+    ]
+  },
+  {
+    "context": "This Work consists of filling around the ends of trestles and bridges, the area defined in Section 1-01.3. The Contractor shall begin and complete this Work as soon as possible after each bridge is completed or when the Engineer requires. The Contractor shall select fill material from the excavation sources elsewhere on the project. Bridge Approach Embankments shall be compacted to at least 95 percent of the maximum density as determined by the tests described in Section 2-03.3(14)D. In any embankment area where piles will be installed, the Contractor shall remove all solid material, rocks, broken concrete, etc., larger than 3 inches across that would interfere with pile driving.",
+    "questions": [
+      {
+        "question": "What is the minimum required compaction percentage for Bridge Approach Embankments?",
+        "answer": {
+          "text": "at least 95 percent",
+          "answer_start": 385,
+          "answer_end": 404
+        }
+      },
+      {
+        "question": "What is time limit for the work around the ends of trestles and bridges to be finished?",
+        "answer": {
+          "text": "as soon as possible after each bridge is completed or when the Engineer requires",
+          "answer_start": 157,
+          "answer_end": 237
+        }
+      },
+      {
+        "question": "Where can contractors find the requirements for the maximum density tests for compaction?",
+        "answer": {
+          "text": "Section 2-03.3(14)D",
+          "answer_start": 468,
+          "answer_end": 487
+        }
+      },
+      {
+        "question": "What elements must be removed from embankment areas so that piles will be installed?",
+        "answer": {
+          "text": "all solid material, rocks, broken concrete, etc., larger than 3 inches across",
+          "answer_start": 571,
+          "answer_end": 648
+        }
+      }
+    ]
+  },
+  {
+    "context": "The geotextile shall either be overlapped a minimum of 2 feet at all longitudinal and transverse joints, or the geotextile shall be sewn together. The initial lift thickness shall be 12 inches or more. Compaction of the first lift above the geotextile shall be by Method A according to Section 2-03.3(14)C. No vibratory compaction will be allowed on the first lift.",
+    "questions": [
+      {
+        "question": "What type of method should be utilized for the compaction of the first lift above the geotextile?",
+        "answer": {
+          "text": "Compaction of the first lift above the geotextile shall be by Method A",
+          "answer_start": 202,
+          "answer_end": 272
+        }
+      },
+      {
+        "question": "What is the required initial lift thickness?",
+        "answer": {
+          "text": "The initial lift thickness shall be 12 inches or more.",
+          "answer_start": 147,
+          "answer_end": 201
+        }
+      },
+      {
+        "question": "What strategy should be employed to join the geotextile at joints?",
+        "answer": {
+          "text": "The geotextile shall either be overlapped a minimum of 2 feet at all longitudinal and transverse joints, or the geotextile shall be sewn together.",
+          "answer_start": 0,
+          "answer_end": 146
+        }
+      },
+      {
+        "question": "Which section should be referred to for the compaction method of the first lift?",
+        "answer": {
+          "text": "according to Section 2-03.3(14)C",
+          "answer_start": 273,
+          "answer_end": 305
+        }
+      }
+    ]
+  },
+  {
+    "context": "Immediately following spreading and final shaping, each layer of surfacing shall be compacted to at least 95 percent of maximum density determined by the requirements of Section 2-03.3(14)D before the next succeeding layer of surfacing or pavement is placed. The determination of field in-place density shall be made by the Nuclear gauge. When the thickness of surfacing is less than 0.15 foot, density testing will not be required and the Engineer will determine the number of coverages required for the particular compaction equipment available. Vibratory compactors and rollers shall obtain the specified density for each layer. A mist spray of water shall be applied as needed to replace moisture lost by evaporation. The completed layer shall have a smooth, tight, uniform surface true to the line, grade, and cross-section shown in the Plans, or as staked.",
+    "questions": [
+      {
+        "question": "Who determines the number of coverages required when the thickness of surfacing is less than a value?",
+        "answer": {
+          "text": "the Engineer",
+          "answer_start": 436,
+          "answer_end": 448
+        }
+      },
+      {
+        "question": "What is the minimum required density for each layer of surfacing after compaction?",
+        "answer": {
+          "text": "95 percent of maximum density",
+          "answer_start": 106,
+          "answer_end": 135
+        }
+      },
+      {
+        "question": "How to determine the field in-place density?",
+        "answer": {
+          "text": "by the Nuclear gauge",
+          "answer_start": 317,
+          "answer_end": 337
+        }
+      },
+      {
+        "question": "Which section specifies the requirements for maximum density determination?",
+        "answer": {
+          "text": "Section 2-03.3(14)D",
+          "answer_start": 170,
+          "answer_end": 189
+        }
+      },
+      {
+        "question": "What types of elements are used to obtain the specified density for each layer?",
+        "answer": {
+          "text": "Vibratory compactors and rollers",
+          "answer_start": 548,
+          "answer_end": 580
+        }
+      },
+      {
+        "question": "How to replace moisture lost by evaporation during the surfacing process?",
+        "answer": {
+          "text": "A mist spray of water shall be applied as needed",
+          "answer_start": 632,
+          "answer_end": 680
+        }
+      },
+      {
+        "question": "What characteristics should the completed layer of surfacing have?",
+        "answer": {
+          "text": "a smooth, tight, uniform surface true to the line, grade, and cross-section shown in the Plans, or as staked",
+          "answer_start": 753,
+          "answer_end": 861
+        }
+      }
+    ]
+  },
+  {
+    "context": "All costs in connection with acquiring the rights to take materials from the source, for exploring and developing the site, for complying with the regulations of the aforesaid State agencies, for preparing the site as provided in Sections 3-01.2(2) and 3-03, for cleaning up the site, and for correcting unsightly conditions, shall be included in the unit Contract prices for the various pay items of Work involved.",
+    "questions": [
+      {
+        "question": "Which reference sections should be followed for preparing the site?",
+        "answer": {
+          "text": "Sections 3-01.2(2) and 3-03",
+          "answer_start": 230,
+          "answer_end": 257
+        }
+      },
+      {
+        "question": "What types of activities should be included in the unit Contract prices?",
+        "answer": {
+          "text": "acquiring the rights to take materials from the source, for exploring and developing the site, for complying with the regulations of the aforesaid State agencies, for preparing the site as provided in Sections 3-01.2(2) and 3-03, for cleaning up the site, and for correcting unsightly conditions",
+          "answer_start": 29,
+          "answer_end": 324
+        }
+      },
+      {
+        "question": "How should the costs for correcting unsightly conditions be handled?",
+        "answer": {
+          "text": "included in the unit Contract prices for the various pay items of Work involved",
+          "answer_start": 335,
+          "answer_end": 414
+        }
+      }
+    ]
+  },
+  {
+    "context": "No payment will be made for the rejected materials unless the Contractor requests that the rejected material be tested. If the Contractor elects to have the rejected material tested, a minimum of three representative samples shall be obtained and tested. Acceptance of rejected material will be based on conformance with the statistical acceptance Specification. If the Composite Pay Factor (CPF) for the rejected material is less than 0.75, no payment will be made for the rejected material; in addition, the cost of sampling and testing shall be borne by the Contractor. If the CPF is greater than or equal to 0.75, the cost of sampling and testing will be borne by the Contracting Agency. If the material is rejected before placement and the CPF is greater than or equal to 0.75, compensation for the rejected material will be at a CPF of 0.75. If rejection occurs after placement and the CPF is greater than 0.75, compensation for the rejected mix will be at the calculated CPF with an addition of 25 percent of the unit Contract price added for the cost of removal and disposal.",
+    "questions": [
+      {
+        "question": "Who is responsible for bearing the cost of sampling and testing if the CPF does not satisfy the requirement?",
+        "answer": {
+          "text": "the Contractor",
+          "answer_start": 58,
+          "answer_end": 72
+        }
+      },
+      {
+        "question": "What must be done if the Contractor decides to check the rejected material?",
+        "answer": {
+          "text": "a minimum of three representative samples shall be obtained and tested",
+          "answer_start": 183,
+          "answer_end": 253
+        }
+      },
+      {
+        "question": "In what condition will no payment be made for the rejected materials?",
+        "answer": {
+          "text": "unless the Contractor requests that the rejected material be tested",
+          "answer_start": 51,
+          "answer_end": 118
+        }
+      },
+      {
+        "question": "How to accept determined rejected material?",
+        "answer": {
+          "text": "based on conformance with the statistical acceptance Specification",
+          "answer_start": 295,
+          "answer_end": 361
+        }
+      },
+      {
+        "question": "Which standard is referenced for the acceptance of rejected material?",
+        "answer": {
+          "text": "the statistical acceptance Specification",
+          "answer_start": 321,
+          "answer_end": 361
+        }
+      },
+      {
+        "question": "Who bears the cost of sampling and testing if the CPF is over one standard?",
+        "answer": {
+          "text": "the Contracting Agency",
+          "answer_start": 668,
+          "answer_end": 690
+        }
+      },
+      {
+        "question": "What is the compensation for rejected material?",
+        "answer": {
+          "text": "compensation for the rejected material will be at a CPF of 0.75",
+          "answer_start": 783,
+          "answer_end": 846
+        }
+      },
+      {
+        "question": "How is compensation calculated if rejection occurs after placement and the CPF is greater than 0.75?",
+        "answer": {
+          "text": "compensation for the rejected mix will be at the calculated CPF with an addition of 25 percent of the unit Contract price added for the cost of removal and disposal",
+          "answer_start": 918,
+          "answer_end": 1082
+        }
+      }
+    ]
+  },
+  {
+    "context": "The Contracting Agency may require the production and stockpiling of aggregates on sites provided by the Contracting Agency for use on future construction or maintenance projects to be performed under a subsequent contract or by Contracting Agency forces. When the Contract includes the Bid item or items for specific aggregates in stockpile and these aggregates are not to be used in Work required under the Contract, the Contractor shall produce or furnish these aggregates complying with the quality and grading requirements of these Specifications and shall prepare the site and place the aggregates in stockpile in accordance with the requirements of this section or as ordered by the Engineer in accordance with Section 1-04.4.",
+    "questions": [
+      {
+        "question": "Which party may require the production and stockpiling of aggregates?",
+        "answer": {
+          "text": "The Contracting Agency",
+          "answer_start": 0,
+          "answer_end": 22
+        }
+      },
+      {
+        "question": "What is the responsibility of the Contractor when the Contract includes specific aggregates in stockpile?",
+        "answer": {
+          "text": "the Contractor shall produce or furnish these aggregates complying with the quality and grading requirements of these Specifications and shall prepare the site and place the aggregates in stockpile",
+          "answer_start": 419,
+          "answer_end": 616
+        }
+      },
+      {
+        "question": "What is placement cirteria of aggregates in stockpile?",
+        "answer": {
+          "text": "in accordance with the requirements of this section or as ordered by the Engineer in accordance with Section 1-04.4",
+          "answer_start": 617,
+          "answer_end": 732
+        }
+      },
+      {
+        "question": "Which section should the aggregates comply with when placed in stockpile?",
+        "answer": {
+          "text": "Section 1-04.4",
+          "answer_start": 718,
+          "answer_end": 732
+        }
+      }
+    ]
+  },
+  {
+    "context": "Construction geotextile, with the exception of temporary silt fence geotextile and underground drainage geotextile used in trench drains, will be measured by the square yard for the ground surface area actually covered. Underground drainage geotextile used in trench drains will be measured by the square yard for the perimeter of the drain actually covered.",
+    "questions": [
+      {
+        "question": "What is measurement criteria for construction geotextile?",
+        "answer": {
+          "text": "by the square yard for the ground surface area actually covered",
+          "answer_start": 155,
+          "answer_end": 218
+        }
+      },
+      {
+        "question": "What methods are not considered for measuring construction geotextile?",
+        "answer": {
+          "text": "temporary silt fence geotextile and underground drainage geotextile used in trench drains",
+          "answer_start": 47,
+          "answer_end": 136
+        }
+      },
+      {
+        "question": "What is measurement criteria for the underground drainage geotextile used in trench drains?",
+        "answer": {
+          "text": "by the square yard for the perimeter of the drain actually covered",
+          "answer_start": 291,
+          "answer_end": 357
+        }
+      }
+    ]
+  },
+  {
+    "context": "All scalpings that are unsatisfactory for use under these Specifications or Special Provisions shall be considered as reject material, subject to disposal as approved by the Engineer. Reject material shall be placed at such a location as not to interfere with future development within the site.",
+    "questions": [
+      {
+        "question": "Who is responsible for deciding the disposal of reject materials?",
+        "answer": {
+          "text": "approved by the Engineer",
+          "answer_start": 158,
+          "answer_end": 182
+        }
+      },
+      {
+        "question": "What should be done with scalpings that are unsatisfactory?",
+        "answer": {
+          "text": "considered as reject material",
+          "answer_start": 104,
+          "answer_end": 133
+        }
+      },
+      {
+        "question": "Where should the reject material be placed?",
+        "answer": {
+          "text": "at such a location as not to interfere with future development within the site",
+          "answer_start": 216,
+          "answer_end": 294
+        }
+      },
+      {
+        "question": "Which referecence should the Contractor follow to determine whether scalpings are satisfactory or not for use?",
+        "answer": {
+          "text": "Specifications or Special Provisions",
+          "answer_start": 58,
+          "answer_end": 94
+        }
+      }
+    ]
+  },
+  {
+    "context": "The Contractor shall submit the mix design in accordance with Section 6-02.3(2)A. The submittal shall include test reports for all tests listed above that follow the reporting requirements of the AASHTO/ASTM procedures. Mix designs using shrinkage reducing admixture shall state the specific quantity required. Samples for testing may be obtained from either laboratory or concrete plant batches. If concrete plant batches are used, the minimum batch size shall be 3.0 cubic yards. Testing samples of mixes using shrinkage reducing admixture shall use the admixture amount specified in the mix design submittal. The Contractor shall submit the mix design to the Engineer at least 30 calendar days prior to the placement of concrete in the bridge deck.",
+    "questions": [
+      {
+        "question": "Who is responsible for submitting the mix design?",
+        "answer": {
+          "text": "The Contractor",
+          "answer_start": 0,
+          "answer_end": 14
+        }
+      },
+      {
+        "question": "What is the minimum batch size for concrete plant batches?",
+        "answer": {
+          "text": "3.0 cubic yards",
+          "answer_start": 465,
+          "answer_end": 480
+        }
+      },
+      {
+        "question": "In what condition should the mix design be submitted to the Engineer?",
+        "answer": {
+          "text": "at least 30 calendar days prior to the placement of concrete in the bridge deck",
+          "answer_start": 671,
+          "answer_end": 750
+        }
+      },
+      {
+        "question": "Which reference should follow for submitting the mix design?",
+        "answer": {
+          "text": "in accordance with Section 6-02.3(2)A",
+          "answer_start": 43,
+          "answer_end": 80
+        }
+      },
+      {
+        "question": "Which reference procedures should the test reports follow?",
+        "answer": {
+          "text": "AASHTO/ASTM procedures",
+          "answer_start": 196,
+          "answer_end": 218
+        }
+      }
+    ]
+  },
+  {
+    "context": "Before any paving is placed, the Contractor shall bring the Subgrade to the required line, grade, and cross-section. The Contractor shall compact the Subgrade to a depth of 6 inches to 95 percent of maximum density as determined by the compaction control tests for granular materials. The compacted area shall be wide enough to let paving machines operate without visible distortion of surfacing material. The Contractor shall maintain the Subgrade in the required condition until the pavement is placed. The Contractor may remove material just before paving if the Plans require thicker areas of pavement.",
+    "questions": [
+      {
+        "question": "What is the requirement for the maximum density that the Subgrade should be compacted to?",
+        "answer": {
+          "text": "95 percent",
+          "answer_start": 185,
+          "answer_end": 195
+        }
+      },
+      {
+        "question": "What is requirement of depth for compacted Subgrade?",
+        "answer": {
+          "text": "6 inches",
+          "answer_start": 173,
+          "answer_end": 181
+        }
+      },
+      {
+        "question": "What is the requirement of compacted area that is suitable for paving machines?",
+        "answer": {
+          "text": "wide enough to let paving machines operate without visible distortion of surfacing material",
+          "answer_start": 313,
+          "answer_end": 404
+        }
+      },
+      {
+        "question": "When should the Contractor remove material as required in the plan?",
+        "answer": {
+          "text": "just before paving",
+          "answer_start": 540,
+          "answer_end": 558
+        }
+      }
+    ]
+  },
+  {
+    "context": "Self-consolidating concrete (SCC) is concrete that is able to flow under its own weight and completely fill the formwork without the need for vibration while maintaining homogeneity, even in the presence of dense reinforcement. SCC shall be capable of being pumped, and of flowing through the steel reinforcing bar cage without segregation or buildup of differential head inside or outside of the steel reinforcing bar cage.",
+    "questions": [
+      {
+        "question": "What is the characteristics of self-consolidating concrete (SCC)?",
+        "answer": {
+          "text": "able to flow under its own weight and completely fill the formwork without the need for vibration while maintaining homogeneity",
+          "answer_start": 54,
+          "answer_end": 181
+        }
+      },
+      {
+        "question": "What capacity should SCC have if it is required to move through the steel reinforcing bar cage?",
+        "answer": {
+          "text": "flowing through the steel reinforcing bar cage without segregation or buildup of differential head",
+          "answer_start": 273,
+          "answer_end": 371
+        }
+      },
+      {
+        "question": "What requirement must SCC meet when used with dense reinforcement?",
+        "answer": {
+          "text": "maintaining homogeneity, even in the presence of dense reinforcement",
+          "answer_start": 158,
+          "answer_end": 226
+        }
+      },
+      {
+        "question": "Which potential issue must SCC avoid when flowing through the reinforcing bar cage?",
+        "answer": {
+          "text": "segregation or buildup of differential head inside or outside of the steel reinforcing bar cage",
+          "answer_start": 328,
+          "answer_end": 423
+        }
+      }
+    ]
+  },
+  {
+    "context": "Commercial concrete shall have a minimum compressive strength at 28 days of 3,000 psi in accordance with AASHTO T 22. Commercial concrete placed above the finished ground line shall be air entrained and have an air content from 4.5 percent to 7.5 percent in accordance with FOP for AASHTO T 152. Commercial concrete does not require mix design or source approvals for cement, aggregate, and other admixtures.",
+    "questions": [
+      {
+        "question": "What is the minimum compressive strength required for commercial concrete at 28 days?",
+        "answer": {
+          "text": "3,000 psi",
+          "answer_start": 76,
+          "answer_end": 85
+        }
+      },
+      {
+        "question": "Which type of document determines the standard for compressive strength of commercial concrete?",
+        "answer": {
+          "text": "AASHTO T 22",
+          "answer_start": 105,
+          "answer_end": 116
+        }
+      },
+      {
+        "question": "What is the required air content range for commercial concrete placed above the finished ground line?",
+        "answer": {
+          "text": "4.5 percent to 7.5 percent",
+          "answer_start": 228,
+          "answer_end": 254
+        }
+      },
+      {
+        "question": "Which standard is used to ensure the air content of commercial concrete?",
+        "answer": {
+          "text": "FOP for AASHTO T 152",
+          "answer_start": 274,
+          "answer_end": 294
+        }
+      },
+      {
+        "question": "Is a mix design approval required for commercial concrete?",
+        "answer": {
+          "text": "Commercial concrete does not require mix design or source approvals for cement, aggregate, and other admixtures.",
+          "answer_start": 296,
+          "answer_end": 408
+        }
+      }
+    ]
+  },
+  {
+    "context": "The source shall be selected so that, after the materials have been removed, the pit will drain to a natural drainage course and no ponding will result. Should the source selected by the Contractor be one which would not drain as outlined herein, permission shall be obtained by the Contractor from the governing body of the city or county for the removal of materials from the pit or quarry.",
+    "questions": [
+      {
+        "question": "What must be implemented for the pit after materials have been removed?",
+        "answer": {
+          "text": "drain to a natural drainage course and no ponding will result",
+          "answer_start": 90,
+          "answer_end": 151
+        }
+      },
+      {
+        "question": "What criteria should the selected pit follow to prevent ponding?",
+        "answer": {
+          "text": "drain to a natural drainage course and no ponding will result",
+          "answer_start": 90,
+          "answer_end": 151
+        }
+      },
+      {
+        "question": "Which party must the Contractor obtain permission from for material removal if the source does not drain properly?",
+        "answer": {
+          "text": "the governing body of the city or county",
+          "answer_start": 299,
+          "answer_end": 339
+        }
+      }
+    ]
+  }
+]
