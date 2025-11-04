@@ -2,6 +2,8 @@ This repository provides a set of representative workflow codes (Google Colab-co
 
 To facilitate performance evaluation, we also include a curated testing dataset comprising both extractive and open-ended question answering (QA) pairs.
 
+For extractive QA pairs, we considered provisions of construction specifications from Alaska, United States. These provisions primarily pertain to earthworks, covering the following key areas: Clearing and grubbing, Removal of structures, Excavation and embankment, and Excavation and fill for structures. For each area, we analysed five core components: descriptive scope, material requirements, construction methods, measurement strategies, and payment terms.
+
 The extractive QA dataset adheres strictly to the SQuAD format, in which each provision is followed by two to three corresponding questions. The labeling codes for the original extractive QA pairs is also included in the repository. The open-ended QA dataset is derived from publicly available sources and follows a one-to-one format, with each question paired with a corresponding free-form answer.
 
 These resources are intended to support reproducibility and future extensions for domain-specific LM development and evaluation in construction document understanding tasks.
